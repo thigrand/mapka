@@ -8,27 +8,26 @@
  * Controller of the mapAppApp
  */
  (function(){
-angular.module('mapAppApp', []);
+angular.module('mapAppApp', ['ui.bootstrap']);
 
 
-
-// function TagController() {
-// 	this.$watchCollection('data.tags',function(val){
-// 		console.log(val);
-// 	});
-	// this.cityObj = {};
-	// var cityObj = this.cityObj;
 function TagController($scope) { 
 	$scope.$watchCollection('data.tags',function(val){
-		console.log(val);
+		//console.log(val);
 	});
-	$scope.cityObj = {};
-
-	dataInJson.loadXML('/data/Mapa.xml', function(data) {
-		$scope.cityObj = data; 
-	});
-	console.log($scope.cityObj);
 }
+angular.module('mapAppApp').controller('TagController', TagController);
+
+function xmlHandler($http, $scope){
+	var xmlfile = 'data/Mapa.xml';
+	$scope.selected = undefined;
+  $scope.miasta = [];
+
+  dataInJson.loadXML(xmlfile, function(data) {
+    $scope.miasta = data.miasta.miasto;
+  });
+}
+
 
 
 
