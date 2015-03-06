@@ -23,20 +23,30 @@
     <!-- Add your site or application content here -->
 
 
-    <div id="mainContainer">
-      <div class="mapContainer" ng-include="'images/mapka.svg'" >
- 
-      </div>
-      <div id="searchContainer" ng-controller="TagController">
+ <div id="mainContainer" ng-controller="xmlHandler">
+      <div class="mapContainer" ng-include="'images/mapka.svg'" ></div>
+      <div ng-controller="TagController" id="searchContainer" >
         <h3>Wyszukaj:</h3>
-<!--         <input type="text" name="IWantToFind" id="inpSearch" ng-model="inpSearch">  -->
 
-         <div auto-complete url="/search" model="data.tags"></div>
-
-      </div>    
-      <div id="formContainer">
-        
+        <div model="data.tags" url="/search" auto-complete></div>
       </div>
+      <h4>Wpisz nazwę miasta:</h4>        
+        <input type="text" ng-model="selected" 
+        typeahead="miasto as miasto.nazwa for miasto in miasta | filter:$viewValue | limitTo:8" class="form-control" autocomplete="off">
+        
+        <h2>Znaleziono</h2>
+        Nazwa
+        <input type="text" ng-disabled="true" class="form-control" ng-model="selected.nazwa">
+        Doradcy <span ng-if="selected.doradca.length > 0">({{selected.doradca.length}})</span>
+          <ul ng-if="selected.doradca.length > 0">
+            <li ng-repeat="d in selected.doradca">
+              {{ d.imieNazwisko }} - {{ d.tel }}, {{ d.email}}</li>
+          </ul>
+          <span class="alert alert-info" ng-if="selected.doradca.length == 0">
+            brak doradców
+          </span>
+      
+      <div id="formContainer"></div>
     </div>
 
 
@@ -71,6 +81,7 @@
         <script src="scripts/app.js"></script>
         <script src="scripts/xmltojson.js"></script>
         <script src="scripts/controllers/main.js"></script>
+        <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.12.1.js"></script>
 
         <!-- endbuild -->
 </body>
