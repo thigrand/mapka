@@ -48,6 +48,7 @@ var dataInJson = (function() {
 	    function XHRhandler() {
             if (xhr.readyState === 4) {
                     var obj = XML2jsobj(xhr.responseXML.documentElement);
+                    //console.log(obj);
                     callback(obj);
             }
 	    }
@@ -55,6 +56,7 @@ var dataInJson = (function() {
 
     return {
         loadXML : loadXML,
+        XML2jsobj : XML2jsobj,
 
     };
 }());

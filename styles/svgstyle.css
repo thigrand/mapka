@@ -1,0 +1,26 @@
+.map path
+{
+  stroke: white;
+  transition: fill 1s;
+  cursor: pointer;
+}
+
+.map path:hover, .map path.selected
+{
+  fill: #660130;
+}
+.map text
+{
+  font-family: Verdana;
+  fill: white;
+  pointer-events: none;
+}
+.tescik
+{
+	fill: yellow;
+	stroke: black;
+	width: 200%; height: auto;
+	transform: scale(2,3);
+	position: absolute;
+
+}

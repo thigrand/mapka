@@ -1,12 +1,45 @@
 <div class="tags-wrapper">
     <div id="tagsList" class="tags-cloud">
-        <div ng-repeat="selectedTag in selectedTags" class="tag">
-            <span class="tagName">{{selectedTag}}</span>
-            <span>&nbsp;<b ng-click="removeTag($index)" class="fa fa-times cross"></b></span>
+
+        <input type="text" placeholder="Start typing" id="searchInput" class="form-control"
+         ng-keydown="checkKeyDown($event)"  ng-model="searchText" ng-change="search()"/>
+
+	    <ul id="suggestions" class="suggestions-list">
+	       <li ng-repeat="suggestion in suggestions" class="blockSpan" 
+	       ng-click="addToSelectedTags($index)" ng-mouseover="$parent.selectedIndex=$index" ng-class="{active : selectedIndex===$index}">{{suggestion}}</li>
+	    </ul>
+
+        <br>
+        <h4>Znaleziono:</h4><br>
+
+        <div >
+        	<p class="">{{ selectedTags[selectedTags.length-1] }}:</p><br>
+        	<ul ng-if="salesmans.length > 0">
+
+        	<li class="pointerBitch" ng-repeat="salesman in salesmans" ng-click="chooseSalesman($index)">
+            	{{ salesman.imieNazwisko }} <br>
+            	{{ salesman.tel }}<br>
+            	{{ salesman.email}}<br><br>
+            </li>
+            </ul>
+            <span class="alert alert-info" ng-if="salesmans.length === 0 && selectedTags != 0">
+            Niestety, w tym mieście jeszcze nie ma doradców.
+          </span>
         </div>
-        <input type="text" placeholder="Start typing" id="searchInput" ng-keydown="checkKeyDown($event)" class="form-control" ng-model="searchText" ng-change="search()"/>
+        <div id="formContainer" ng-show="saleInd !== undefined">
+	      <form method="post">
+	        <input type="text" ng-disabled="true" class="form-control" ng-model="salesmans[saleInd].imieNazwisko">
+	        <input type="text" ng-disabled="true" class="form-control" ng-model="salesmans[saleInd].tel">
+	        <input type="text" ng-disabled="true" class="form-control" ng-model="salesmans[saleInd].email">
+	        Twój mail:
+	        <input type="text" class="form-control" ng-model="userMail" require>
+	        <textarea type="textBox"class="form-control" ng-model="textToSend">
+	        Napisz tu swoją wiadomość...
+			</textarea>
+
+			<button type="submit" form="form1" value="Submit">Wyślij</button>
+	      </form>
+	    </div>
+
     </div>
-    <ul id="suggestions" class="suggestions-list">
-       <li ng-repeat="suggestion in suggestions" class="blockSpan" ng-click="addToSelectedTags($index)" ng-mouseover="$parent.selectedIndex=$index" ng-class="{active : selectedIndex===$index}">{{suggestion}}</li>
-     </ul>
 </div>    
