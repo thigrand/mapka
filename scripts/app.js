@@ -17,15 +17,23 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'mapSVG',
   ])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
-        controller: 'TagController'
+        controller: 'TagController' 
       })
+      // .when('/', {
+      //   url: '/images/mapka.svg',
+      //   controller: 'SVGController'
+      // })
       .otherwise({
         redirectTo: '/'
       });
   });
+
+angular.module('mapAppApp', ['mapSVG']);
+angular.module('mapSVG', []);

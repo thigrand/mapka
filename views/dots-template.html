@@ -1,0 +1,27 @@
+<div >
+	<!-- <p class="">{{ selectedTags[selectedTags.length-1] }}:</p><br> -->
+	<ul ng-if="salesmans.length > 0">
+    	<li class="pointerBitch" ng-repeat="salesman in salesmans" ng-click="chooseSalesman($index)">
+        	{{ salesman.imieNazwisko }} <br>
+        	{{ salesman.tel }}<br>
+        	{{ salesman.email}}<br><br>
+        </li>
+    </ul>
+<!--     <span class="alert alert-info" ng-if="salesmans.length === 0 && selectedTags != 0">
+        Niestety, w tym mieście jeszcze nie ma doradców.
+    </span> -->
+</div>
+<div id="formContainer" ng-show="saleInd !== undefined">
+  <form method="post">
+    <input type="text" ng-disabled="true" class="form-control" ng-model="salesmans[saleInd].imieNazwisko">
+    <input type="text" ng-disabled="true" class="form-control" ng-model="salesmans[saleInd].tel">
+    <input type="text" ng-disabled="true" class="form-control" ng-model="salesmans[saleInd].email">
+    Twój mail:
+    <input type="text" class="form-control" ng-model="userMail" require>
+    <textarea type="textBox" class="form-control" ng-model="textToSend">
+    Napisz tu swoją wiadomość...
+	</textarea>
+
+	<button type="submit" form="form1" value="Submit">Wyślij</button>
+  </form>
+</div>

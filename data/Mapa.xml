@@ -6,6 +6,7 @@
 
 		<miasto>
 			<nazwa>Gdańsk</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>177</x>
 			<y>31</y>
 			<kropka>1</kropka>
@@ -22,6 +23,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Starogard Gdański</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>171</x>
 			<y>59</y>
 			<kropka>0</kropka>
@@ -38,6 +40,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gdynia</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>172</x>
 			<y>22</y>
 			<kropka>0</kropka>
@@ -49,6 +52,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Tczew</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>180</x>
 			<y>48</y>
 			<kropka>0</kropka>
@@ -65,6 +69,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kościerzyna</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>153</x>
 			<y>44</y>
 			<kropka>0</kropka>
@@ -76,6 +81,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bytów</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>132</x>
 			<y>40</y>
 			<kropka>0</kropka>
@@ -87,6 +93,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wejherowo</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>162</x>
 			<y>15</y>
 			<kropka>0</kropka>
@@ -98,6 +105,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Puck</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>169</x>
 			<y>10</y>
 			<kropka>0</kropka>
@@ -109,6 +117,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kartuzy</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>160</x>
 			<y>32</y>
 			<kropka>0</kropka>
@@ -120,6 +129,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Lębork</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>144</x>
 			<y>17</y>
 			<kropka>0</kropka>
@@ -131,6 +141,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Słupsk</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>119</x>
 			<y>26</y>
 			<kropka>0</kropka>
@@ -142,6 +153,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Malbork</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>189</x>
 			<y>55</y>
 			<kropka>0</kropka>
@@ -158,6 +170,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Pruszcz Gdański</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>176</x>
 			<y>37</y>
 			<kropka>0</kropka>
@@ -169,6 +182,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowy Dwór Gdański</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>191</x>
 			<y>42</y>
 			<kropka>0</kropka>
@@ -180,6 +194,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Braniewo</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>215</x>
 			<y>27</y>
 			<kropka>0</kropka>
@@ -191,6 +206,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kwidzyn</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>189</x>
 			<y>72</y>
 			<kropka>0</kropka>
@@ -202,6 +218,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Chojnice</nazwa>
+			<wojewodztwo>pomorskie</wojewodztwo>
 			<x>134</x>
 			<y>74</y>
 			<kropka>0</kropka>
@@ -216,6 +233,7 @@
 
 		<miasto>
 			<nazwa>Kędzierzyn-Koźle</nazwa>
+			<wojewodztwo>opolskie</wojewodztwo>
 			<x>160</x>
 			<y>290</y>
 			<kropka>0</kropka>
@@ -227,6 +245,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Opole</nazwa>
+			<wojewodztwo>opolskie</wojewodztwo>
 			<x>145</x>
 			<y>268</y>
 			<kropka>1</kropka>
@@ -238,6 +257,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kluczbork</nazwa>
+			<wojewodztwo>opolskie</wojewodztwo>
 			<x>157</x>
 			<y>249</y>
 			<kropka>0</kropka>
@@ -249,6 +269,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Brzeg</nazwa>
+			<wojewodztwo>opolskie</wojewodztwo>
 			<x>130.65</x>
 			<y>255.4</y>
 			<kropka>0</kropka>
@@ -260,6 +281,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nysa</nazwa>
+			<wojewodztwo>opolskie</wojewodztwo>
 			<x>120</x>
 			<y>282</y>
 			<kropka>0</kropka>
@@ -274,6 +296,7 @@
 
 		<miasto>
 			<nazwa>Elbląg</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>207</x>
 			<y>44</y>
 			<kropka>0</kropka>
@@ -285,6 +308,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Olsztyn</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>244</x>
 			<y>68</y>
 			<kropka>1</kropka>
@@ -301,6 +325,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Dobre Miasto</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>238.35</x>
 			<y>56.95</y>
 			<kropka>0</kropka>
@@ -317,6 +342,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ostróda</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>226.75</x>
 			<y>74.9</y>
 			<kropka>0</kropka>
@@ -333,6 +359,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Iława</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>212</x>
 			<y>82</y>
 			<kropka>0</kropka>
@@ -344,6 +371,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ełk</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>315</x>
 			<y>62</y>
 			<kropka>0</kropka>
@@ -355,6 +383,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Pisz</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>297</x>
 			<y>77</y>
 			<kropka>0</kropka>
@@ -366,6 +395,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Giżycko</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>295</x>
 			<y>51</y>
 			<kropka>0</kropka>
@@ -377,6 +407,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gołdap</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>310</x>
 			<y>33</y>
 			<kropka>0</kropka>
@@ -388,6 +419,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Olecko</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>321</x>
 			<y>52</y>
 			<kropka>0</kropka>
@@ -399,6 +431,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mrągowo</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>278.4</x>
 			<y>65.4</y>
 			<kropka>0</kropka>
@@ -415,6 +448,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Szczytno</nazwa>
+			<wojewodztwo>warminsko_mazurskie</wojewodztwo>
 			<x>268.95</x>
 			<y>82.3</y>
 			<kropka>0</kropka>
@@ -429,6 +463,7 @@
 
 		<miasto>
 			<nazwa>Poznań</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>111</x>
 			<y>158</y>
 			<kropka>1</kropka>
@@ -440,6 +475,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Śrem</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>115</x>
 			<y>176</y>
 			<kropka>0</kropka>
@@ -451,6 +487,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kościan</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>100</x>
 			<y>178</y>
 			<kropka>0</kropka>
@@ -462,6 +499,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Grodzisk Wielkopolski</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>90</x>
 			<y>170</y>
 			<kropka>0</kropka>
@@ -473,6 +511,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowy Tomyśl</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>79</x>
 			<y>161.45</y>
 			<kropka>0</kropka>
@@ -484,6 +523,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gniezno</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>137</x>
 			<y>150</y>
 			<kropka>0</kropka>
@@ -495,6 +535,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Środa Wielkopolska</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>125.45</x>
 			<y>171</y>
 			<kropka>0</kropka>
@@ -506,6 +547,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Września</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>136</x>
 			<y>163</y>
 			<kropka>0</kropka>
@@ -517,6 +559,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Konin</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>162</x>
 			<y>169</y>
 			<kropka>0</kropka>
@@ -528,6 +571,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Koło</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>177</x>
 			<y>170</y>
 			<kropka>0</kropka>
@@ -539,6 +583,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kłodawa</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>186</x>
 			<y>168</y>
 			<kropka>0</kropka>
@@ -550,6 +595,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Czarnków</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>97</x>
 			<y>125</y>
 			<kropka>0</kropka>
@@ -561,6 +607,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Piła</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>103</x>
 			<y>108</y>
 			<kropka>0</kropka>
@@ -572,6 +619,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Złotów</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>115</x>
 			<y>95</y>
 			<kropka>0</kropka>
@@ -583,6 +631,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Trzcianka</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>92</x>
 			<y>117</y>
 			<kropka>0</kropka>
@@ -594,6 +643,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Chodzież</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>110</x>
 			<y>120</y>
 			<kropka>0</kropka>
@@ -605,6 +655,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wągrowiec</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>121</x>
 			<y>132</y>
 			<kropka>0</kropka>
@@ -621,6 +672,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Oborniki</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>107</x>
 			<y>142</y>
 			<kropka>0</kropka>
@@ -637,6 +689,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Szamotuły</nazwa>
+			<wojewodztwo>wielkopolskie</wojewodztwo>
 			<x>98</x>
 			<y>145</y>
 			<kropka>0</kropka>
@@ -651,6 +704,7 @@
 
 		<miasto>
 			<nazwa>Grudziądz</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>179</x>
 			<y>87</y>
 			<kropka>0</kropka>
@@ -662,6 +716,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Świecie</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>168</x>
 			<y>93</y>
 			<kropka>0</kropka>
@@ -673,6 +728,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Toruń</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>173</x>
 			<y>118</y>
 			<kropka>1</kropka>
@@ -689,6 +745,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ciechocinek</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>182</x>
 			<y>126</y>
 			<kropka>0</kropka>
@@ -700,6 +757,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wąbrzeźno</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>188</x>
 			<y>100</y>
 			<kropka>0</kropka>
@@ -711,6 +769,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Brodnica</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>205</x>
 			<y>103</y>
 			<kropka>0</kropka>
@@ -722,6 +781,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Inowrocław</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>160</x>
 			<y>132</y>
 			<kropka>0</kropka>
@@ -733,6 +793,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bydgoszcz</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>150</x>
 			<y>111</y>
 			<kropka>1</kropka>
@@ -754,6 +815,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sępólno Krajeńskie</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>131</x>
 			<y>90</y>
 			<kropka>0</kropka>
@@ -765,6 +827,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nakło nad Notecią</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>135</x>
 			<y>109</y>
 			<kropka>0</kropka>
@@ -776,6 +839,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Włocławek</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>192</x>
 			<y>142</y>
 			<kropka>0</kropka>
@@ -787,6 +851,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Golub-Dobrzyń</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>192</x>
 			<y>112</y>
 			<kropka>0</kropka>
@@ -798,6 +863,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mogilno</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>149</x>
 			<y>140</y>
 			<kropka>0</kropka>
@@ -809,6 +875,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Radziejów</nazwa>
+			<wojewodztwo>kujawsko_pomorskie</wojewodztwo>
 			<x>171</x>
 			<y>145</y>
 			<kropka>0</kropka>
@@ -823,6 +890,7 @@
 
 		<miasto>
 			<nazwa>Świnoujście</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>9</x>
 			<y>55</y>
 			<kropka>0</kropka>
@@ -834,6 +902,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Police</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>22</x>
 			<y>79</y>
 			<kropka>0</kropka>
@@ -845,6 +914,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Szczecin</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>21</x>
 			<y>86</y>
 			<kropka>1</kropka>
@@ -856,6 +926,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Stargard Szczeciński</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>39</x>
 			<y>93</y>
 			<kropka>0</kropka>
@@ -867,6 +938,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Pyrzyce</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>35</x>
 			<y>103</y>
 			<kropka>0</kropka>
@@ -878,6 +950,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowogard</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>42</x>
 			<y>72</y>
 			<kropka>0</kropka>
@@ -889,6 +962,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gryfice</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>47</x>
 			<y>57</y>
 			<kropka>0</kropka>
@@ -900,6 +974,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kołobrzeg</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>59</x>
 			<y>41</y>
 			<kropka>0</kropka>
@@ -911,6 +986,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Białogard</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>77</x>
 			<y>51</y>
 			<kropka>0</kropka>
@@ -922,6 +998,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Koszalin</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>84</x>
 			<y>38</y>
 			<kropka>0</kropka>
@@ -933,6 +1010,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Darłowo</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>92</x>
 			<y>26</y>
 			<kropka>0</kropka>
@@ -944,6 +1022,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sławno</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>101</x>
 			<y>29</y>
 			<kropka>0</kropka>
@@ -955,6 +1034,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Drawsko Pomorskie</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>69</x>
 			<y>79</y>
 			<kropka>0</kropka>
@@ -966,6 +1046,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Czaplinek</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>85</x>
 			<y>77</y>
 			<kropka>0</kropka>
@@ -977,6 +1058,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Szczecinek</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>102</x>
 			<y>71</y>
 			<kropka>0</kropka>
@@ -988,6 +1070,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wałcz</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>93</x>
 			<y>99</y>
 			<kropka>0</kropka>
@@ -999,6 +1082,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Choszczno</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>54</x>
 			<y>103</y>
 			<kropka>0</kropka>
@@ -1010,6 +1094,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Barlinek</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>43</x>
 			<y>113</y>
 			<kropka>0</kropka>
@@ -1021,6 +1106,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Myślibórz</nazwa>
+			<wojewodztwo>zachodniopomorskie</wojewodztwo>
 			<x>27</x>
 			<y>117</y>
 			<kropka>0</kropka>
@@ -1035,6 +1121,7 @@
 
 		<miasto>
 			<nazwa>Gorzów Wielkopolski</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>42</x>
 			<y>134</y>
 			<kropka>1</kropka>
@@ -1051,6 +1138,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Świebodzin</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>53</x>
 			<y>165</y>
 			<kropka>0</kropka>
@@ -1062,6 +1150,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Zielona Góra</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>52</x>
 			<y>185</y>
 			<kropka>1</kropka>
@@ -1073,6 +1162,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sulechów</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>57</x>
 			<y>176</y>
 			<kropka>0</kropka>
@@ -1084,6 +1174,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Krosno Odrzańskie</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>37</x>
 			<y>177</y>
 			<kropka>0</kropka>
@@ -1095,6 +1186,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Lubsko</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>33</x>
 			<y>193</y>
 			<kropka>0</kropka>
@@ -1106,6 +1198,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowa Sól</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>61</x>
 			<y>192</y>
 			<kropka>0</kropka>
@@ -1117,6 +1210,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kożuchów</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>56</x>
 			<y>196</y>
 			<kropka>0</kropka>
@@ -1128,6 +1222,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Żary</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>39</x>
 			<y>202</y>
 			<kropka>0</kropka>
@@ -1139,6 +1234,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Żagań</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>46</x>
 			<y>204</y>
 			<kropka>0</kropka>
@@ -1150,6 +1246,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Szprotawa</nazwa>
+			<wojewodztwo>lubuskie</wojewodztwo>
 			<x>54</x>
 			<y>208</y>
 			<kropka>0</kropka>
@@ -1164,6 +1261,7 @@
 
 		<miasto>
 			<nazwa>Warszawa</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>270</x>
 			<y>164</y>
 			<kropka>1</kropka>
@@ -1192,6 +1290,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wołomin</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>279</x>
 			<y>157</y>
 			<kropka>0</kropka>
@@ -1203,6 +1302,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Legionowo</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>268</x>
 			<y>153</y>
 			<kropka>0</kropka>
@@ -1214,6 +1314,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Otwock</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>280</x>
 			<y>176</y>
 			<kropka>0</kropka>
@@ -1230,6 +1331,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowy Dwór Mazowiecki</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>258</x>
 			<y>152</y>
 			<kropka>0</kropka>
@@ -1241,6 +1343,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Płońsk</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>246</x>
 			<y>142</y>
 			<kropka>0</kropka>
@@ -1257,6 +1360,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wyszków</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>288</x>
 			<y>141</y>
 			<kropka>0</kropka>
@@ -1268,6 +1372,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mława</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>246</x>
 			<y>113</y>
 			<kropka>0</kropka>
@@ -1284,6 +1389,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ciechanów</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>255</x>
 			<y>124</y>
 			<kropka>0</kropka>
@@ -1295,6 +1401,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ostrołęka</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>288</x>
 			<y>109</y>
 			<kropka>0</kropka>
@@ -1306,6 +1413,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sierpc</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>215.15</x>
 			<y>126.65</y>
 			<kropka>0</kropka>
@@ -1317,6 +1425,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Żyrardów</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>248</x>
 			<y>178</y>
 			<kropka>0</kropka>
@@ -1328,6 +1437,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sochaczew</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>239</x>
 			<y>166</y>
 			<kropka>0</kropka>
@@ -1339,6 +1449,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Grójec</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>265</x>
 			<y>188</y>
 			<kropka>0</kropka>
@@ -1350,6 +1461,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Piaseczno</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>273</x>
 			<y>177</y>
 			<kropka>0</kropka>
@@ -1371,6 +1483,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Pruszków</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>265</x>
 			<y>171</y>
 			<kropka>0</kropka>
@@ -1390,6 +1503,7 @@
 
 		<miasto>
 			<nazwa>Płock</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>219</x>
 			<y>145</y>
 			<kropka>0</kropka>
@@ -1401,6 +1515,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Pułtusk</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>271</x>
 			<y>133</y>
 			<kropka>0</kropka>
@@ -1412,6 +1527,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Siedlce</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>320</x>
 			<y>168</y>
 			<kropka>0</kropka>
@@ -1423,6 +1539,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Łosice</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>338</x>
 			<y>165</y>
 			<kropka>0</kropka>
@@ -1434,6 +1551,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mińsk Mazowiecki</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>290</x>
 			<y>168</y>
 			<kropka>0</kropka>
@@ -1445,6 +1563,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Garwolin</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>294</x>
 			<y>186</y>
 			<kropka>0</kropka>
@@ -1461,6 +1580,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sokołów Podlaski</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>318</x>
 			<y>153</y>
 			<kropka>0</kropka>
@@ -1472,6 +1592,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Radom</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>277</x>
 			<y>221</y>
 			<kropka>0</kropka>
@@ -1483,6 +1604,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Przysucha</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>258</x>
 			<y>222</y>
 			<kropka>0</kropka>
@@ -1494,6 +1616,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Białobrzegi</nazwa>
+			<wojewodztwo>mazowieckie</wojewodztwo>
 			<x>267</x>
 			<y>202</y>
 			<kropka>0</kropka>
@@ -1508,6 +1631,7 @@
 
 		<miasto>
 			<nazwa>Łuków</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>324</x>
 			<y>183</y>
 			<kropka>0</kropka>
@@ -1524,6 +1648,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Międzyrzec Podlaski</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>342.75</x>
 			<y>181.5</y>
 			<kropka>0</kropka>
@@ -1535,6 +1660,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Biała Podlaska</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>356</x>
 			<y>178</y>
 			<kropka>0</kropka>
@@ -1546,6 +1672,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Radzyń Podlaski</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>336</x>
 			<y>197</y>
 			<kropka>0</kropka>
@@ -1557,6 +1684,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Puławy</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>309</x>
 			<y>219.5</y>
 			<kropka>0</kropka>
@@ -1573,6 +1701,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Lublin</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>335</x>
 			<y>231</y>
 			<kropka>1</kropka>
@@ -1594,6 +1723,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Krasnystaw</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>359</x>
 			<y>245</y>
 			<kropka>0</kropka>
@@ -1610,6 +1740,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Zamość</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>362</x>
 			<y>264</y>
 			<kropka>0</kropka>
@@ -1631,6 +1762,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Chełm</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>370</x>
 			<y>235</y>
 			<kropka>0</kropka>
@@ -1647,6 +1779,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Świdnik</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>340</x>
 			<y>234</y>
 			<kropka>0</kropka>
@@ -1668,6 +1801,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Łęczna</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>348</x>
 			<y>224.8</y>
 			<kropka>0</kropka>
@@ -1689,6 +1823,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kock</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>329</x>
 			<y>204</y>
 			<kropka>0</kropka>
@@ -1705,6 +1840,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Opole Lubelskie</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>310.05</x>
 			<y>236.4</y>
 			<kropka>0</kropka>
@@ -1726,6 +1862,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kraśnik</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>320</x>
 			<y>252</y>
 			<kropka>0</kropka>
@@ -1752,6 +1889,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Biłgoraj</nazwa>
+			<wojewodztwo>lubelskie</wojewodztwo>
 			<x>342</x>
 			<y>273</y>
 			<kropka>0</kropka>
@@ -1766,6 +1904,7 @@
 
 		<miasto>
 			<nazwa>Suwałki</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>339</x>
 			<y>42</y>
 			<kropka>0</kropka>
@@ -1777,6 +1916,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Augustów</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>342</x>
 			<y>63</y>
 			<kropka>0</kropka>
@@ -1788,6 +1928,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Grajewo</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>321</x>
 			<y>75</y>
 			<kropka>0</kropka>
@@ -1799,6 +1940,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Białystok</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>353.3</x>
 			<y>109.75</y>
 			<kropka>1</kropka>
@@ -1810,6 +1952,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bielsk Podlaski</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>355.4</x>
 			<y>130.85</y>
 			<kropka>0</kropka>
@@ -1821,6 +1964,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Łomża</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>307.95</x>
 			<y>103.3</y>
 			<kropka>0</kropka>
@@ -1832,6 +1976,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gródek</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>369.1</x>
 			<y>110.8</y>
 			<kropka>0</kropka>
@@ -1843,6 +1988,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Łapy</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>343.5</x>
 			<y>120.3</y>
 			<kropka>0</kropka>
@@ -1854,6 +2000,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mońki</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>337</x>
 			<y>90.75</y>
 			<kropka>0</kropka>
@@ -1865,6 +2012,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sokółka</nazwa>
+			<wojewodztwo>podlaskie</wojewodztwo>
 			<x>363.8</x>
 			<y>90.75</y>
 			<kropka>0</kropka>
@@ -1879,6 +2027,7 @@
 
 		<miasto>
 			<nazwa>Tarnobrzeg</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>299</x>
 			<y>274</y>
 			<kropka>0</kropka>
@@ -1895,6 +2044,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Stalowa Wola</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>315</x>
 			<y>272</y>
 			<kropka>0</kropka>
@@ -1916,6 +2066,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Rzeszów</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>313</x>
 			<y>310</y>
 			<kropka>1</kropka>
@@ -1942,6 +2093,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mielec</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>292.15</x>
 			<y>290.2</y>
 			<kropka>0</kropka>
@@ -1953,6 +2105,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Dębica</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>293</x>
 			<y>308</y>
 			<kropka>0</kropka>
@@ -1969,6 +2122,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kolbuszowa</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>305.85</x>
 			<y>294.45</y>
 			<kropka>0</kropka>
@@ -1985,6 +2139,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jasło</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>296</x>
 			<y>324</y>
 			<kropka>0</kropka>
@@ -2001,6 +2156,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Krosno</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>305</x>
 			<y>329</y>
 			<kropka>0</kropka>
@@ -2017,6 +2173,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sanok</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>321</x>
 			<y>335</y>
 			<kropka>0</kropka>
@@ -2028,6 +2185,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Łańcut</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>324</x>
 			<y>308</y>
 			<kropka>0</kropka>
@@ -2039,6 +2197,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Dynów</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>326.95</x>
 			<y>317.65</y>
 			<kropka>0</kropka>
@@ -2050,6 +2209,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Leżajsk</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>330</x>
 			<y>292</y>
 			<kropka>0</kropka>
@@ -2066,6 +2226,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jarosław</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>343</x>
 			<y>312</y>
 			<kropka>0</kropka>
@@ -2077,6 +2238,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Przemyśl</nazwa>
+			<wojewodztwo>podkarpackie</wojewodztwo>
 			<x>346.95</x>
 			<y>325.05</y>
 			<kropka>0</kropka>
@@ -2091,6 +2253,7 @@
 
 		<miasto>
 			<nazwa>Końskie</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>247</x>
 			<y>235</y>
 			<kropka>0</kropka>
@@ -2102,6 +2265,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Skarżysko-Kamienna</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>263</x>
 			<y>241</y>
 			<kropka>0</kropka>
@@ -2113,6 +2277,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kielce</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>255</x>
 			<y>254</y>
 			<kropka>1</kropka>
@@ -2129,6 +2294,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ostrowiec Świętokrzyski</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>288</x>
 			<y>251</y>
 			<kropka>0</kropka>
@@ -2145,6 +2311,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Opatów</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>291.05</x>
 			<y>257</y>
 			<kropka>0</kropka>
@@ -2161,6 +2328,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sandomierz</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>302</x>
 			<y>267</y>
 			<kropka>0</kropka>
@@ -2177,6 +2345,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Staszów</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>278.05</x>
 			<y>273</y>
 			<kropka>0</kropka>
@@ -2188,6 +2357,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Chmielnik</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>261.55</x>
 			<y>270.15</y>
 			<kropka>0</kropka>
@@ -2199,6 +2369,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jędrzejów</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>244.65</x>
 			<y>269.1</y>
 			<kropka>0</kropka>
@@ -2210,6 +2381,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Busko Zdrój</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>258.05</x>
 			<y>282</y>
 			<kropka>0</kropka>
@@ -2221,6 +2393,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kazimierza Wielka</nazwa>
+			<wojewodztwo>swietokrzyskie</wojewodztwo>
 			<x>251</x>
 			<y>293.4</y>
 			<kropka>0</kropka>
@@ -2235,6 +2408,7 @@
 
 		<miasto>
 			<nazwa>Łódź</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>210</x>
 			<y>197</y>
 			<kropka>1</kropka>
@@ -2251,6 +2425,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kutno</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>204</x>
 			<y>167</y>
 			<kropka>0</kropka>
@@ -2262,6 +2437,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Stryków</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>214</x>
 			<y>190</y>
 			<kropka>0</kropka>
@@ -2278,6 +2454,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Zgierz</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>207</x>
 			<y>192</y>
 			<kropka>0</kropka>
@@ -2294,6 +2471,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Piotrków Trybunalski</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>219</x>
 			<y>219</y>
 			<kropka>0</kropka>
@@ -2310,6 +2488,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bełchatów</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>207</x>
 			<y>224</y>
 			<kropka>0</kropka>
@@ -2327,6 +2506,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Radomsko</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>209</x>
 			<y>243</y>
 			<kropka>0</kropka>
@@ -2338,6 +2518,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wieluń</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>175</x>
 			<y>233.2</y>
 			<kropka>0</kropka>
@@ -2349,6 +2530,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Opoczno</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>242</x>
 			<y>222</y>
 			<kropka>0</kropka>
@@ -2360,6 +2542,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Tomaszów Mazowiecki</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>231</x>
 			<y>211</y>
 			<kropka>0</kropka>
@@ -2376,6 +2559,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Rawa Mazowiecka</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>242</x>
 			<y>197</y>
 			<kropka>0</kropka>
@@ -2387,6 +2571,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Skierniewice</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>236</x>
 			<y>185</y>
 			<kropka>0</kropka>
@@ -2398,6 +2583,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Łowicz</nazwa>
+			<wojewodztwo>lodzkie</wojewodztwo>
 			<x>228</x>
 			<y>177</y>
 			<kropka>0</kropka>
@@ -2412,6 +2598,7 @@
 
 		<miasto>
 			<nazwa>Wrocław</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>109.7</x>
 			<y>239.55</y>
 			<kropka>1</kropka>
@@ -2423,6 +2610,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Legnica</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>74</x>
 			<y>234</y>
 			<kropka>0</kropka>
@@ -2434,6 +2622,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jawor</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>76</x>
 			<y>242</y>
 			<kropka>0</kropka>
@@ -2445,6 +2634,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Złotoryja</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>66</x>
 			<y>239</y>
 			<kropka>0</kropka>
@@ -2456,6 +2646,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Lubin</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>76</x>
 			<y>220</y>
 			<kropka>0</kropka>
@@ -2467,6 +2658,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Głogów</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>72</x>
 			<y>205</y>
 			<kropka>0</kropka>
@@ -2483,6 +2675,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Polkowice</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>71</x>
 			<y>214</y>
 			<kropka>0</kropka>
@@ -2499,6 +2692,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bolesławiec</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>51</x>
 			<y>230</y>
 			<kropka>0</kropka>
@@ -2510,6 +2704,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Lubań</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>41</x>
 			<y>238</y>
 			<kropka>0</kropka>
@@ -2521,6 +2716,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jelenia Góra</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>57</x>
 			<y>252</y>
 			<kropka>0</kropka>
@@ -2537,6 +2733,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Świdnica</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>87.55</x>
 			<y>255.4</y>
 			<kropka>0</kropka>
@@ -2548,6 +2745,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kamienna Góra</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>66.45</x>
 			<y>260.65</y>
 			<kropka>0</kropka>
@@ -2559,6 +2757,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wałbrzych</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>80</x>
 			<y>260</y>
 			<kropka>0</kropka>
@@ -2570,6 +2769,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kłodzko</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>94</x>
 			<y>280</y>
 			<kropka>0</kropka>
@@ -2581,6 +2781,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bielawa</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>93.85</x>
 			<y>263.85</y>
 			<kropka>0</kropka>
@@ -2592,6 +2793,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ząbkowice Śląskie</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>100</x>
 			<y>270</y>
 			<kropka>0</kropka>
@@ -2603,6 +2805,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ziębice</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>109</x>
 			<y>270</y>
 			<kropka>0</kropka>
@@ -2614,6 +2817,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kudowa-Zdrój</nazwa>
+			<wojewodztwo>dolnoslaskie</wojewodztwo>
 			<x>77</x>
 			<y>282</y>
 			<kropka>0</kropka>
@@ -2628,6 +2832,7 @@
 
 		<miasto>
 			<nazwa>Katowice</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>189</x>
 			<y>294</y>
 			<kropka>1</kropka>
@@ -2644,6 +2849,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Częstochowa</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>196</x>
 			<y>260</y>
 			<kropka>0</kropka>
@@ -2655,6 +2861,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Zawiercie</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>205</x>
 			<y>281</y>
 			<kropka>0</kropka>
@@ -2666,6 +2873,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Lubliniec</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>177</x>
 			<y>269</y>
 			<kropka>0</kropka>
@@ -2677,6 +2885,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Tarnowskie Góry</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>183</x>
 			<y>284</y>
 			<kropka>0</kropka>
@@ -2693,6 +2902,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Sosnowiec</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>193</x>
 			<y>291</y>
 			<kropka>0</kropka>
@@ -2704,6 +2914,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bytom</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>186</x>
 			<y>288</y>
 			<kropka>0</kropka>
@@ -2720,6 +2931,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Zabrze</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>181</x>
 			<y>290</y>
 			<kropka>0</kropka>
@@ -2736,6 +2948,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ruda Śląska</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>183</x>
 			<y>295</y>
 			<kropka>0</kropka>
@@ -2747,6 +2960,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mikołów</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>184</x>
 			<y>300</y>
 			<kropka>0</kropka>
@@ -2758,6 +2972,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gliwice</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>175</x>
 			<y>291</y>
 			<kropka>0</kropka>
@@ -2774,6 +2989,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Czerwionka-Leszczyny</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>175</x>
 			<y>302</y>
 			<kropka>0</kropka>
@@ -2785,6 +3001,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Dąbrowa Górnicza</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>198</x>
 			<y>290</y>
 			<kropka>0</kropka>
@@ -2796,6 +3013,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Mysłowice</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>194</x>
 			<y>298</y>
 			<kropka>0</kropka>
@@ -2807,6 +3025,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jaworzno</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>199</x>
 			<y>298</y>
 			<kropka>0</kropka>
@@ -2818,6 +3037,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Tychy</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>189</x>
 			<y>303</y>
 			<kropka>0</kropka>
@@ -2829,6 +3049,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Rybnik</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>169</x>
 			<y>304</y>
 			<kropka>0</kropka>
@@ -2840,6 +3061,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Rydułtowy</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>164</x>
 			<y>306</y>
 			<kropka>0</kropka>
@@ -2851,6 +3073,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wodzisław Śląski</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>166</x>
 			<y>311</y>
 			<kropka>0</kropka>
@@ -2862,6 +3085,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Żory</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>176</x>
 			<y>308</y>
 			<kropka>0</kropka>
@@ -2873,6 +3097,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Racibórz</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>158</x>
 			<y>305</y>
 			<kropka>0</kropka>
@@ -2884,6 +3109,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Jastrzębie-Zdrój</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>172</x>
 			<y>314</y>
 			<kropka>0</kropka>
@@ -2895,6 +3121,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Ustroń</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>180</x>
 			<y>327</y>
 			<kropka>0</kropka>
@@ -2906,6 +3133,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bielsko-Biała</nazwa>
+			<wojewodztwo>slaskie</wojewodztwo>
 			<x>189</x>
 			<y>322</y>
 			<kropka>0</kropka>
@@ -2920,6 +3148,7 @@
 
 		<miasto>
 			<nazwa>Chrzanów</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>206</x>
 			<y>304</y>
 			<kropka>0</kropka>
@@ -2936,6 +3165,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Olkusz</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>212</x>
 			<y>292</y>
 			<kropka>0</kropka>
@@ -2947,6 +3177,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Kraków</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>227</x>
 			<y>307</y>
 			<kropka>1</kropka>
@@ -2963,6 +3194,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Skawina</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>222</x>
 			<y>312</y>
 			<kropka>0</kropka>
@@ -2974,6 +3206,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wieliczka</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>231</x>
 			<y>313</y>
 			<kropka>0</kropka>
@@ -2985,6 +3218,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Wadowice</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>209</x>
 			<y>319</y>
 			<kropka>0</kropka>
@@ -2996,6 +3230,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Oświęcim</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>199</x>
 			<y>309</y>
 			<kropka>0</kropka>
@@ -3007,6 +3242,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Miechów</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>231</x>
 			<y>288</y>
 			<kropka>0</kropka>
@@ -3018,6 +3254,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Myślenice</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>227</x>
 			<y>321</y>
 			<kropka>0</kropka>
@@ -3029,6 +3266,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Rabka</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>227</x>
 			<y>334</y>
 			<kropka>0</kropka>
@@ -3040,6 +3278,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Bochnia</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>247</x>
 			<y>314</y>
 			<kropka>0</kropka>
@@ -3056,6 +3295,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Brzesko</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>253</x>
 			<y>314</y>
 			<kropka>0</kropka>
@@ -3067,6 +3307,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Tarnów</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>269</x>
 			<y>311</y>
 			<kropka>0</kropka>
@@ -3083,6 +3324,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Limanowa</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>247</x>
 			<y>330</y>
 			<kropka>0</kropka>
@@ -3094,6 +3336,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowy Sącz</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>259</x>
 			<y>335</y>
 			<kropka>0</kropka>
@@ -3110,6 +3353,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Nowy Targ</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>230</x>
 			<y>344</y>
 			<kropka>0</kropka>
@@ -3121,6 +3365,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Zakopane</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>228</x>
 			<y>357</y>
 			<kropka>0</kropka>
@@ -3132,6 +3377,7 @@
 		</miasto>
 		<miasto>
 			<nazwa>Gorlice</nazwa>
+			<wojewodztwo>malopolskie</wojewodztwo>
 			<x>276</x>
 			<y>332</y>
 			<kropka>0</kropka>
