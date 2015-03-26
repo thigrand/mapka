@@ -17,8 +17,8 @@
    id="svg3472"
    inkscape:version="0.91 r13725"
    sodipodi:docname="mapka.svg"
-   ng-controller="SVGController as svg">
-   <script xlink:href="/scripts/svgfunctions.js" ></script>
+   ng-controller="MapController as svg">
+   <script src="scripts/controllers/map-controller.js"></script>
    <script xlink:href="bower_components/angular/angular.js"></script>
   <metadata
      id="metadata3606">

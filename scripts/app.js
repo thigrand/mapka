@@ -20,6 +20,9 @@ angular
     'ngTouch',
     'mapSVG',
   ])
+  .constant("XMLFILE", {//nie działa mi to. Jak przekazuje do servisu to wywala błędy.
+    "URL" : "'data/mapa.xml'",
+  })
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
