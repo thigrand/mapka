@@ -1,7 +1,7 @@
 'use strict';
+    
+function ZoomProvince(XmlHandler, DrawCities) {
     var isZoomed = 0;
-function ZoomProvince(MapXmlHandler, DrawCities) {
-
     function setAClass(obj, nameOfClass) {
         var d = document.getElementById(obj.id);
         d.setAttribute('class', nameOfClass);
@@ -41,5 +41,5 @@ function ZoomProvince(MapXmlHandler, DrawCities) {
     this.afterClicked = afterClicked;
     return this;
 }
-angular.module('mapSVG').factory('ZoomProvince', ['MapXmlHandler', 'DrawCities', ZoomProvince]);
+angular.module('mapSVG').factory('ZoomProvince', ['XmlHandler', 'DrawCities', ZoomProvince]);
 

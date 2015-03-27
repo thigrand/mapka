@@ -1,5 +1,5 @@
 'use strict';
-function autoComplete ($http, InputXmlHandler) {// based on http://www.htmlxprs.com/post/32/creating-an-angularjs-autocomplete-tag-input-widget
+function autoComplete ($http, XmlHandler) {// based on http://www.htmlxprs.com/post/32/creating-an-angularjs-autocomplete-tag-input-widget
 return {
         restrict: 'AE',
         scope: {
@@ -14,11 +14,11 @@ return {
             scope.cityIndex = [];
             scope.salesmans = [];
             scope.saleInd = undefined;
-			
+
             //methods
             //research on every new letter on input
             scope.search = function() {
-            	var list = InputXmlHandler.list;
+            	var list = XmlHandler.cities.namesOfCities;
             	scope.suggestions = [];
             	scope.cityIndex = [];			
                 //remove polish signs and capitals
@@ -39,6 +39,7 @@ return {
 					scope.selectedIndex=-1;
 				}
             	list.forEach(searchCity);
+
 			 };
 
             scope.checkKeyDown = function(event) {
@@ -64,9 +65,9 @@ return {
             };
             scope.addSalesman = function(index) {
             	scope.salesmans = [];
-            	if (InputXmlHandler.miasta[index].doradca.length !== 0) {
-            	    for(var i = 0; i < InputXmlHandler.miasta[index].doradca.length; i++) {
-            			scope.salesmans.push(InputXmlHandler.miasta[index].doradca[i]);
+            	if (XmlHandler.cities.miasta[index].doradca.length !== 0) {
+            	    for(var i = 0; i < XmlHandler.cities.miasta[index].doradca.length; i++) {
+            			scope.salesmans.push(XmlHandler.cities.miasta[index].doradca[i]);
             		}
             	}
             	scope.saleInd = undefined;
@@ -77,4 +78,4 @@ return {
         }
     };
 }
-angular.module('mapAppApp').directive('autoComplete', ['$http', 'InputXmlHandler', autoComplete]);
+angular.module('mapAppApp').directive('autoComplete', ['$http', 'XmlHandler', autoComplete]);

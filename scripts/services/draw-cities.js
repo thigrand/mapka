@@ -1,5 +1,5 @@
 'use strict';
-function DrawCities($q, MapXmlHandler) {
+function DrawCities($q, XmlHandler) {
 
     // function draw(xmlHandlers) {//replaced by directive
     //     xmlHandlers.list.forEach(function makeCircle(element, index) {
@@ -43,4 +43,4 @@ function DrawCities($q, MapXmlHandler) {
     this.drawZoomed = drawZoomed;
     return this;
 };
-angular.module('mapSVG').factory('DrawCities', ['$q', 'MapXmlHandler', DrawCities]);
+angular.module('mapSVG').factory('DrawCities', ['$q', 'XmlHandler', DrawCities]);

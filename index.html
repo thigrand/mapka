@@ -26,7 +26,7 @@
 
     <div id="mainContainer" >
       <div class="mapContainer" ng-include="'images/mapka.svg'" ></div>
-      <div id="searchContainer" ng-controller="TagController"  >
+      <div id="searchContainer"   >
         <h3 class="insSear">Wyszukaj:</h3>
 
         <div id="formular" model="data.tags"  auto-complete="" >
@@ -68,13 +68,14 @@
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
         <script src="scripts/app.js"></script>
         <script src="scripts/services/xmltojson.js"></script>
+        <script src="scripts/services/xml-handler.js"></script>
 
-        <script src="scripts/controllers/tag-controller.js"></script>
-        <script src="scripts/services/input-xml-handler.js"></script>
+<!--         <script src="scripts/controllers/tag-controller.js"></script> -->
+
         <script src="scripts/directives/auto-complete.js"></script>
 
         <script src="scripts/controllers/map-controller.js"></script>
-        <script src="scripts/services/map-xml-handler.js"></script>
+
         <script src="scripts/services/draw-cities.js"></script>
 
         <script src="scripts/services/zoom-province.js"></script>
