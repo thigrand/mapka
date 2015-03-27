@@ -1,0 +1,58 @@
+.provinceNames
+{
+	font-size: 8px;
+	stroke: #ffffff;
+	font-family: Arial;
+	stroke-width: 0px;
+}
+.map path
+{
+  stroke: white;
+  transition: fill 1s;
+  cursor: pointer;
+}
+
+.map path:hover, .map path.selected
+{
+  fill: #660130;
+}
+.map text
+{
+  font-family: Verdana;
+  fill: white;
+  pointer-events: none;
+}
+
+.zoom
+{
+	transform: scale( 2.3, 2.3); 
+}
+
+
+.defaultProvince
+{
+	stroke: white;
+	transition: fill 1s;
+  	cursor: move;
+  	position: relative;
+
+}
+.dots
+{
+	fill: red;
+	cursor: pointer;
+
+}
+.hiddenDots
+{
+	display:none;
+}
+.dots .zoomed
+{
+	transform: scale( 2.3, 2.3); 
+	stroke: #000000;
+	visibility: visible;
+
+	
+}
+/*class="defaultProvince"*/
